@@ -300,4 +300,4 @@ telegram = ["requests"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "ebb71f90f1e5db2afc0dbbd4d8a0a638588cc597d9d105f0ffc495ec77e8b7b4"
+content-hash = "96c40593248cb8f167f71f57d71bae81ac021520c2ad327566f12b382a0d213c"
